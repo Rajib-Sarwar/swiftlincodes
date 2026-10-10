@@ -1,0 +1,3 @@
+# Swiftlin code companion conventions
+
+This repository is the source of truth for downloadable Swiftlin project code. Keep starter and final versions together under the matching chapter, with a README explaining their differences. Preserve published paths and existing user content. Verify the code, regenerate downloads with scripts/package-downloads.py, and update website links when publishing. Exclude personal signing configuration, secrets, build products and xcuserdata. Keep screenshots as clearly labeled placeholders with SCREENSHOT TODO comments until genuine captures are available. Do not label unfinished examples as a completed final.
