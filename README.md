@@ -8,6 +8,12 @@ The source of truth for Swiftlin's downloadable exercises and project starters/f
 | [03 · Protocols](03-protocols/) | Three starter/final playground pairs | Continues into chapter 04 |
 | [04 · Protocols in Practice](04-protocols-practice/) | — | Checkout Engine: starter and final |
 | [05 · Generics](05-generics/) | Three starter/final playground pairs | Checkout continuation: starter and final |
+| [06 · Numerics & Ranges](06-numerics-ranges/) | Three playground pairs | Download Lab |
+| [07 · Sequences & Collections](07-sequences-collections/) | Three playground pairs | Offline Library |
+| [08 · Strings](08-strings/) | Three playground pairs | Search & Rename |
+| [09 · Codable](09-codable/) | Three playground pairs | Library Sync |
+| [10 · Unsafe](10-unsafe/) | Three playground pairs | Packet Lab |
+| [11 · Higher-Order Functions](11-higher-order-functions/) | Three playground pairs | Inbox Lab |
 
 ## Project downloads
 
@@ -15,6 +21,7 @@ The source of truth for Swiftlin's downloadable exercises and project starters/f
 | --- | --- | --- |
 | Checkout Engine | [Download](downloads/04-protocols-practice-starter.zip) | [Download](downloads/04-protocols-practice-final.zip) |
 | Generics continuation | [Download](downloads/05-generics-starter.zip) | [Download](downloads/05-generics-final.zip) |
+| Inbox Lab | [Download](downloads/11-higher-order-functions-starter.zip) | [Download](downloads/11-higher-order-functions-final.zip) |
 
 On GitHub, open the archive and choose Download raw file. Or clone/download this repository and navigate to the chapter. Each project README explains setup, milestones, and verification.
 
@@ -31,4 +38,4 @@ On GitHub, open the archive and choose Download raw file. Or clone/download this
 - Do not include DerivedData, build caches, personal signing teams, user workspace state, credentials, or real payment data.
 - Screenshot placeholders must be explicitly labeled and accompanied by `SCREENSHOT TODO` comments. Replace them with actual captures when ready.
 
-The current projects contain simulated payments and follow the license included with each project.
+All fixtures are synthetic. Projects are learning examples rather than production integrations.
