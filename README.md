@@ -41,3 +41,7 @@ On GitHub, open the archive and choose Download raw file. Or clone/download this
 - Screenshot placeholders must be explicitly labeled and accompanied by `SCREENSHOT TODO` comments. Replace them with actual captures when ready.
 
 All fixtures are synthetic. Projects are learning examples rather than production integrations.
+
+## Objective-C Interoperability
+
+[Legacy Notes Lab](13-objective-c-interoperability): typed legacy contracts, Swift snapshots, error translation, and calls in both directions. Includes three starter/final exercises, a mixed-language Xcode app, and 17 boundary checks. [Starter download](downloads/13-objective-c-interoperability-starter.zip) · [Final download](downloads/13-objective-c-interoperability-final.zip).
