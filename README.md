@@ -14,6 +14,7 @@ The source of truth for Swiftlin's downloadable exercises and project starters/f
 | [09 · Codable](09-codable/) | Three playground pairs | Library Sync |
 | [10 · Unsafe](10-unsafe/) | Three playground pairs | Packet Lab |
 | [11 · Higher-Order Functions](11-higher-order-functions/) | Three playground pairs | Inbox Lab |
+| [12 · Functional Reactive Programming](12-functional-reactive-programming/) | Three state exercises + a Combine lab | Live Search Lab |
 
 ## Project downloads
 
@@ -22,6 +23,7 @@ The source of truth for Swiftlin's downloadable exercises and project starters/f
 | Checkout Engine | [Download](downloads/04-protocols-practice-starter.zip) | [Download](downloads/04-protocols-practice-final.zip) |
 | Generics continuation | [Download](downloads/05-generics-starter.zip) | [Download](downloads/05-generics-final.zip) |
 | Inbox Lab | [Download](downloads/11-higher-order-functions-starter.zip) | [Download](downloads/11-higher-order-functions-final.zip) |
+| Live Search Lab | [Download](downloads/12-functional-reactive-programming-starter.zip) | [Download](downloads/12-functional-reactive-programming-final.zip) |
 
 On GitHub, open the archive and choose Download raw file. Or clone/download this repository and navigate to the chapter. Each project README explains setup, milestones, and verification.
 
