@@ -49,3 +49,7 @@ All fixtures are synthetic. Projects are learning examples rather than productio
 ## Instrumentation
 
 [Catalog Performance Lab](14-instrumentation) includes a preserved CPU baseline, a candidate to improve, image downsampling, callback lifetime checks, and signposted intervals. Three starter/final exercises and twelve deterministic tests accompany an unfilled profiling report. [Starter](downloads/14-instrumentation-starter.zip) · [Final](downloads/14-instrumentation-final.zip).
+
+## API Design
+
+[Saved Items Lab](15-api-design) pairs an iOS screen with a local Swift package. Three starter/final exercises and twelve consumer contract tests cover validation, order, duplicates, mutation, and migration. [Starter](downloads/15-api-design-starter.zip) · [Final](downloads/15-api-design-final.zip).
