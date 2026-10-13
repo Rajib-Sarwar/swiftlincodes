@@ -45,3 +45,7 @@ All fixtures are synthetic. Projects are learning examples rather than productio
 ## Objective-C Interoperability
 
 [Legacy Notes Lab](13-objective-c-interoperability): typed legacy contracts, Swift snapshots, error translation, and calls in both directions. Includes three starter/final exercises, a mixed-language Xcode app, and 17 boundary checks. [Starter download](downloads/13-objective-c-interoperability-starter.zip) · [Final download](downloads/13-objective-c-interoperability-final.zip).
+
+## Instrumentation
+
+[Catalog Performance Lab](14-instrumentation) includes a preserved CPU baseline, a candidate to improve, image downsampling, callback lifetime checks, and signposted intervals. Three starter/final exercises and twelve deterministic tests accompany an unfilled profiling report. [Starter](downloads/14-instrumentation-starter.zip) · [Final](downloads/14-instrumentation-final.zip).
